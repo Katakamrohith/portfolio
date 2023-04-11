@@ -453,7 +453,7 @@ header .follow a:hover{
     border-color: var(--main-color);
 }
 
-.contact .row form .box::placeholder
+.contact .row form .box::placeholder,
 .contact .row form textarea::placeholder{
     text-transform: capitalize;
 }
